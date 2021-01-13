@@ -11,18 +11,42 @@ After the initial analysis, possible scholastic dishonesty was brought to our at
 The results of modifying the data based on scholastic dishonesty are surprisingly close to the original data. The margin of difference for both sets was very minimal and will be elaborated upon below. 
 
 -The scores across the district were affected as shown below
+
 ![](https://github.com/thomasstvr/School_District_Analysis/blob/main/Resources/district.png)
 Thomas High School 9th grade class included
+
 ![](https://github.com/thomasstvr/School_District_Analysis/blob/main/Resources/district_challenge.png)
 Thomas High School 9th grade class omitted 
 
--The average scores for Thomas High School are shown below, the former including the 9th grade class and the latter with the 9th grade class removed
-Pictures
+-The average scores for Thomas High School are shown below, the former including the 9th grade class and the latter with the 9th grade class removed.
 
--With the 9th grade class included in the data, Thomas High School had an overall passing percentage of 90.95%. With the 9th grade class removed, the overall passing percentage of 90.63%. This amounts to a difference of .32% of the students at Thomas High School, or about 5 students.
+![](https://github.com/thomasstvr/School_District_Analysis/blob/main/Resources/school.png)
 
--Removing the 9th grade scores from the data had little, if any, affect on the data. The scores by grade were not affected for any category except Thomas High School’s 9th grade call where NaN is shown in place of scores. Scores based on school spending, size and type were all unaffected by the removal of the tainted data. 
-Useless pictures
+![](https://github.com/thomasstvr/School_District_Analysis/blob/main/Resources/school_challenge.png)
+
+-With the 9th grade class included in the data, Thomas High School had an overall passing percentage of 90.95%. With the 9th grade class removed, the overall passing percentage of 90.63%. This amounts to a difference of .32% of the students at Thomas High School, or about 5 students. 
+
+-Removing the 9th grade scores from the data had little, if any, affect on the data. The scores by grade were not affected for any category except Thomas High School’s 9th grade call where NaN is shown in place of scores. Scores based on school spending, size and type were all unaffected by the removal of the tainted data.
+
+![](https://github.com/thomasstvr/School_District_Analysis/blob/main/Resources/spending.png)
+Budget results with Thomas High School 9th grade included
+
+![](https://github.com/thomasstvr/School_District_Analysis/blob/main/Resources/spending_challenge.png)
+Budget results with Thomas High School 9th grade omitted
+
+![](https://github.com/thomasstvr/School_District_Analysis/blob/main/Resources/size.png)
+School size results with Thomas High School 9th grade included
+
+![](https://github.com/thomasstvr/School_District_Analysis/blob/main/Resources/size_challenge.png)
+School size results with Thomas High School 9th grade omitted
+
+![](https://github.com/thomasstvr/School_District_Analysis/blob/main/Resources/type.png)
+School type results with Thomas High School 9th grade included
+
+![](https://github.com/thomasstvr/School_District_Analysis/blob/main/Resources/type_challenge.png)
+School type results with Thomas High School 9th grade omitted
+
+
 
 ## Summary 
 
