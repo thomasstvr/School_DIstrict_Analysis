@@ -11,7 +11,10 @@ After the initial analysis, possible scholastic dishonesty was brought to our at
 The results of modifying the data based on scholastic dishonesty are surprisingly close to the original data. The margin of difference for both sets was very minimal and will be elaborated upon below. 
 
 -The scores across the district were affected as shown below
-Add pictures
+![](https://github.com/thomasstvr/School_District_Analysis/blob/main/Resources/district.png)
+Thomas High School 9th grade class included
+![](https://github.com/thomasstvr/School_District_Analysis/blob/main/Resources/district_challenge.png)
+Thomas High School 9th grade class omitted 
 
 -The average scores for Thomas High School are shown below, the former including the 9th grade class and the latter with the 9th grade class removed
 Pictures
